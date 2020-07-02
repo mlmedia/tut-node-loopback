@@ -1,5 +1,5 @@
 # Tutorial for Loopback
-Node tutorial (learning a framework / library from [LoopBack](http://loopback.io).
+Node tutorial (learning a framework / library from [LoopBack](http://loopback.io).  Tutorial link unknown.
 
 
 ## NOTE
